@@ -1,1 +1,5 @@
 # Spring Boot One To One Relationship Example
+
+Run this repo by copy and paste this command to your terminal :
+
+`gradle clean bootRun`
