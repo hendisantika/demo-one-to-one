@@ -10,3 +10,5 @@ List Employees
 
 
 ![Add Employee](images/add.png)
+
+![Details Employee](images/details.png)
