@@ -11,4 +11,4 @@ List Employees
 
 ![Add Employee](images/add.png)
 
-![Details Employee](images/details.png)
+![Details Employee](images/detail.png)
