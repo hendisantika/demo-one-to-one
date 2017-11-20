@@ -7,3 +7,6 @@ Run this repo by copy and paste this command to your terminal :
 List Employees
 
 ![List Employees](images/list.png)
+
+
+![Add Employee](images/add.png)
