@@ -3,3 +3,7 @@
 Run this repo by copy and paste this command to your terminal :
 
 `gradle clean bootRun`
+
+List Employees
+
+![List Employees](images/list.png)
